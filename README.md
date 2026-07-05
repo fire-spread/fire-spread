@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 # 🔥 FiRe-Spread
 
-Ein Excel-Tool zur langfristigen Vermögensplanung im Kontext von **Financial Independence / Retire Early (FIRE)**. Das Tool berechnet, wie lange Depot und Festgeldkonto eine geplante jährliche Entnahme tragen — unter Berücksichtigung von Steuern, Inflation, Sonderereignissen und individuellen Rendite-Szenarien.
+Ein Excel-Tool zur Berechnung eines langfristigen Entnahmeplans im Kontext von **Financial Independence / Retire Early (FIRE)**.
+Das Tool berechnet, wie lange Depot und Festgeldkonto eine geplante jährliche Entnahme tragen — unter Berücksichtigung von Steuern, Inflation, Sonderereignissen und individuellen Rendite-Szenarien.
 
 Keine Makros. Läuft in LibreOffice Calc, PlanMaker (SoftMaker) und voraussichtlich auch in Microsoft Excel.
 
-**Sicherheit:** Überprüfe den Rechner vor der Erstausführung  mit Virenprogrammen deiner Wahl (z.B. https://www.virustotal.com/gui/home/upload).
+**Sicherheit:** Überprüfe den Rechner vor der Erstausführung  mit Virenprogrammen deiner Wahl (z.B. https://www.virustotal.com).
 
 ---
 
