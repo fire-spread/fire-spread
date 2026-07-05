@@ -20,6 +20,8 @@ Ein Excel-Tool zur langfristigen Vermögensplanung im Kontext von **Financial In
 
 Keine Makros. Läuft in LibreOffice Calc, PlanMaker (SoftMaker) und voraussichtlich auch in Microsoft Excel.
 
+**Sicherheit:** Überprüfe den Rechner vor der Erstausführung  mit Virenprogrammen deiner Wahl (z.B. https://www.virustotal.com/gui/home/upload).
+
 ---
 
 ## Funktionen
